@@ -3,7 +3,9 @@ An SMS-based web app, seeking to provide medical advice to areas with poor data 
 
 ### Requirements
 Python 3.6
+
 Twilio
+
 Heroku
 
 ### To Run
