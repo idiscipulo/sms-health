@@ -15,4 +15,4 @@ An SMS-based web app, seeking to provide medical advice to areas with poor data 
 6) Enter `make` to run the make.bat file
 
 ### To Use
-sms-health should now process any SMS messages that you send to your Twilio number.
+Your new app should now process any SMS messages that you send to your Twilio number.
