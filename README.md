@@ -1,5 +1,5 @@
 # sms-health
-An SMS-based web app, seeking to provide medical advice to areas with poor data network infrastructure and advance medical services.
+An SMS-based web app, seeking to provide medical advice to areas with poor data network infrastructure and advance medical services. Created as our entry for HackAZ 2018.
 
 ### Requirements
 * Python 3.6
