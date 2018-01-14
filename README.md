@@ -2,11 +2,9 @@
 An SMS-based web app, seeking to provide medical advice to areas with poor data network infrastructure and advance medical services.
 
 ### Requirements
-Python 3.6
-
-Twilio
-
-Heroku
+* Python 3.6
+* Twilio
+* Heroku
 
 ### To Run
 1) Create a Heroku app on their website.
