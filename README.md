@@ -1,5 +1,5 @@
 # sms-health
-An SMS-based web app, seeking to provide medical advice to areas with poor data network infrastructure and advance medical services. Created as our entry for HackAZ 2018.
+An SMS-based web app, seeking to provide medical advice to areas with poor data network infrastructure and delayed medical services. This projected was written in Python using the Twilio API and is deployed through Heroku. It was created as our entry for HackAZ 2018.
 
 ### Requirements
 * Python 3.6
@@ -15,4 +15,4 @@ An SMS-based web app, seeking to provide medical advice to areas with poor data 
 6) Enter `make` to run the make.bat file
 
 ### To Use
-Your new app should now process any SMS messages that you send to your Twilio number.
+Your new app should now process any SMS messages that you send to your Twilio number. Note that with a trial account you must register your number for Twilio to recieve messages.
